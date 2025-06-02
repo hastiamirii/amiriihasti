@@ -1,0 +1,16 @@
+var json_edarat2_7 = {
+"type": "FeatureCollection",
+"name": "edarat2_7",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": "node\/4646538412", "@id": "node\/4646538412", "addr_city": "قائمشهر", "addr_stree": "خیابان کفشگرکلا شهید بهشتی", "name": "دفتر پیشخوان دولت", "office": "government", "building": null, "government": null, "name_en": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 52.8544724, 36.461822 ] } },
+{ "type": "Feature", "properties": { "id": "node\/8440119518", "@id": "node\/8440119518", "addr_city": null, "addr_stree": null, "name": "آموزشگاه درصد", "office": "educational_institution", "building": null, "government": null, "name_en": "Darsad", "phone": null }, "geometry": { "type": "Point", "coordinates": [ 52.8653569, 36.466169 ] } },
+{ "type": "Feature", "properties": { "id": "node\/10005685712", "@id": "node\/10005685712", "addr_city": null, "addr_stree": null, "name": "آموزشگاه دانا", "office": "educational_institution", "building": null, "government": null, "name_en": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 52.8486451, 36.4660716 ] } },
+{ "type": "Feature", "properties": { "id": "node\/10151682018", "@id": "node\/10151682018", "addr_city": null, "addr_stree": null, "name": "مشاورین املاک آقای ملک", "office": "estate_agent", "building": null, "government": null, "name_en": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 52.8506185, 36.4657414 ] } },
+{ "type": "Feature", "properties": { "id": "node\/11707640096", "@id": "node\/11707640096", "addr_city": "قائمشهر", "addr_stree": "یاس ۹ شهید ذبیحی", "name": "کمیته امداد امام خمینی", "office": "government", "building": null, "government": null, "name_en": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 52.8665229, 36.4670239 ] } },
+{ "type": "Feature", "properties": { "id": "node\/11909153836", "@id": "node\/11909153836", "addr_city": "قائمشهر", "addr_stree": "شهید مسعود دهقان شرقی", "name": "املاک سلمانی", "office": "estate_agent", "building": null, "government": null, "name_en": null, "phone": "09112238929" }, "geometry": { "type": "Point", "coordinates": [ 52.8548236, 36.4664321 ] } },
+{ "type": "Feature", "properties": { "id": "node\/12081032061", "@id": "node\/12081032061", "addr_city": "قائمشهر", "addr_stree": "شهید مدرس", "name": "کانون مهندسین قائمشهر", "office": "engineer", "building": null, "government": null, "name_en": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 52.8611412, 36.4625638 ] } },
+{ "type": "Feature", "properties": { "id": "node\/12467155573", "@id": "node\/12467155573", "addr_city": "قائمشهر", "addr_stree": "یاس ۹ شهید ذبیحی", "name": "نمایندگی نظام مهندسی قائمشهر", "office": "government", "building": null, "government": null, "name_en": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 52.8664862, 36.4664387 ] } },
+{ "type": "Feature", "properties": { "id": null, "@id": null, "addr_city": null, "addr_stree": null, "name": null, "office": null, "building": null, "government": null, "name_en": null, "phone": null }, "geometry": { "type": "Point", "coordinates": [ 52.867792894783399, 36.479144243392383 ] } }
+]
+}
